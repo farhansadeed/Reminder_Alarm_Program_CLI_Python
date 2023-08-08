@@ -7,7 +7,9 @@ Output of the program on Terminal
 ![how_to_use_the_program](how_to_use_the_program.png)
 How to use the program
 
-![Output](Output.png)
+![reminder_program](reminder_program.png)
+Reminder Program
+
 Output of the program on Terminal
 Output of the program on Terminal
 To use the app, simply run the main() function in the reminder.py file and follow the prompts. 
